@@ -1,0 +1,29 @@
+{
+  "root_url": "https://leadboxer.com/mc/Upcoming Trends in Lead Generation /open",
+  "utm_campaign": "Upcoming Trends in Lead Generation ",
+  "page_type": "request",
+  "session_id": "b39a5995-43e4-4ed9-8e57-26703ad3fdf8",
+  "title": "Mailchimp Open",
+  "type": {
+    "parent": "u_1701365512543.0814364465",
+    "name": "event"
+  },
+  "eventUnixTimestamp": "1701365511714",
+  "ttl": 31622400000,
+  "tld": "leadboxer.com",
+  "path": "/mc/Upcoming Trends in Lead Generation /open/",
+  "documentExpiryDate": 1732987914641,
+  "hostname": "leadboxer",
+  "site": "a1d90dccc04df83f26553dc753ed41f2",
+  "event_id": "b39a5995-43e4-4ed9-8e57-26703ad3fdf8",
+  "original_url": "https://leadboxer.com/mc/Upcoming Trends in Lead Generation /open",
+  "is_url_ip_number": "false",
+  "mc_open": "true",
+  "eventEsTimestamp": "1701365511714",
+  "domain": "leadboxer.com",
+  "use_id": "1701365512543.0814364465",
+  "customEventInfo": {},
+  "unix_timestamp": "1701365511714",
+  "email": "motamed.arya.1985@gmail.com",
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+}

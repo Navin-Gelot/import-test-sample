@@ -1,0 +1,7 @@
+elasticsearch:
+  hosts: localhost:9200
+  cluster: elasticsearch
+  index: leadboxer_test_index
+
+server:
+  port: 8080
