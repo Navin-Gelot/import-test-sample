@@ -4,13 +4,13 @@ target/
 !.mvn/wrapper/maven-wrapper.properties
 
 # Gradle specific
-#build/
-#.gradle/
-#!gradle/wrapper/gradle-wrapper.jar
-#!gradle/wrapper/gradle-wrapper.properties
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
 
 # IDE-specific files
-#.idea/
+.idea/
 .vscode/
 
 # Logs
