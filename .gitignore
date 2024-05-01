@@ -1,1 +1,50 @@
-.idea
+# Maven specific
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+# Gradle specific
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Logs
+logs/
+
+# Compiled Java classes
+*.class
+
+# Compiled Dynamic JSP (Java Server Pages) files
+*.war
+
+# Package files
+*.jar
+
+# Other build-related files
+build.xml
+log.xml
+
+# Properties and YAML files
+/application.properties
+/application.yml
+
+# Spring Boot devtools
+.restart
+
+# Eclipse-specific
+.classpath
+.project
+.settings/
+
+# Test files
+src/test/
+
+# IDE files
+*.iml
+*.ipr
+*.iws
