@@ -4,13 +4,13 @@ target/
 !.mvn/wrapper/maven-wrapper.properties
 
 # Gradle specific
-build/
-.gradle/
-!gradle/wrapper/gradle-wrapper.jar
-!gradle/wrapper/gradle-wrapper.properties
+#build/
+#.gradle/
+#!gradle/wrapper/gradle-wrapper.jar
+#!gradle/wrapper/gradle-wrapper.properties
 
 # IDE-specific files
-.idea/
+#.idea/
 .vscode/
 
 # Logs
@@ -29,10 +29,6 @@ logs/
 build.xml
 log.xml
 
-# Properties and YAML files
-/application.properties
-/application.yml
-
 # Spring Boot devtools
 .restart
 
@@ -40,9 +36,6 @@ log.xml
 .classpath
 .project
 .settings/
-
-# Test files
-src/test/
 
 # IDE files
 *.iml
